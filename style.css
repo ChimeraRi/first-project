@@ -1,3 +1,10 @@
-div {
+.page {
     font-family: 'Helvetica neue', 'Arial', sans-serif;
+    min-width: 1100px;
+    max-width: 1600px;
+}
+
+.header{
+    min-height: 600px;
+    max-height: 756px;
 }
